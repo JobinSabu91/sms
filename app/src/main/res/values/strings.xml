@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MessageApp</string>
+    <string name="send">Send Sms</string>
+    <string name="receive">Receive Sms</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="send_sms">SEND SMS</string>
+    <string name="enter_text">Type your text</string>
+    <string name="received_sms_text">RECEIVED SMS</string>
+</resources>
